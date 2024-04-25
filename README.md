@@ -15,5 +15,5 @@ Goal: Create a simple CRUD backend server using Express.js
     - `/products/:id` : DELETE request to delete one product based on id
 
 6. Start your server by running `node index.js` if your server filename is index.js
-7. Use Postman to test your routes [https://www.postman.com/]. Create an account and download the software
+7. Use Postman to test your API routes [https://www.postman.com/]. Create an account and download the software
 8. Once your server is working, push your changes and merge from `dev` to `master/main`
