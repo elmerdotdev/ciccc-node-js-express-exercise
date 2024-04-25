@@ -22,4 +22,4 @@ Goal: Create a simple CRUD backend server using Express.js
 
 7. Start your server by running `node index.js` if your server filename is index.js
 8. Use Postman to test your API routes [https://www.postman.com/]. Create an account and download the software
-9. Once your server is working and all your routes are working, push your changes and merge from `dev` to `master/main`
+9. Once your server and all your routes are working, push your changes and merge from `dev` to `master/main`
