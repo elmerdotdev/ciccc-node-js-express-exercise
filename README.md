@@ -1,6 +1,8 @@
-# E-0923 NodeJS Exercise - Express.js CRUD
+# NodeJS - Express.js CRUD Exercise
 
-Goal: Create a simple CRUD backend server using Express.js
+**Goal:** Create a simple CRUD backend server using Express.js
+
+## Instructions
 
 1. Create a `dev` branch after accepting the assignment
 2. Switch to the `dev` branch after cloning the repository to your localhost
@@ -20,6 +22,6 @@ Goal: Create a simple CRUD backend server using Express.js
     - `/products/:id` : UPDATE request to update one product based on id
     - `/products/:id` : DELETE request to delete one product based on id
 
-7. Start your server by running `node index.js` if your server filename is index.js
+7. Start your server by compiling your TypeScript and running `nodemon index.js` if your server filename is index.js
 8. Use Postman to test your API routes [https://www.postman.com/]. Create an account and download the software
 9. Once your server and all your routes are working, push your changes and merge from `dev` to `master/main`
