@@ -6,7 +6,7 @@
 
 1. Create a `dev` branch after accepting the assignment
 2. Switch to the `dev` branch after cloning the repository to your localhost
-3. Set up your Node webserver using Express. Install Express by running `npm install express` on the terminal
+3. Set up your Node webserver using Express. Install Express by running `npm install express` on the terminal. Set up your `tsconfig.json` and `.gitignore` files at the root of your project. The gitignore file should have `node_modules/` listed so that it does not get committed to the repository.
 4. Create an empty array called `products` which will be your in-memory database. You can use the fields below for your object properties
 
     - id
